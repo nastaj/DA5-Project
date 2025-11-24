@@ -1,7 +1,9 @@
 # 🎓 **DreamWork – Student Job Finder App**
 
-![alt text](https://github.com/nastaj/DA5-Project/blob/main/logo.png "DreamWork logo")
-_A mobile-first prototype helping students find flexible part-time jobs, internships, and remote work._
+<p align="center">
+  <img src="https://github.com/nastaj/DA5-Project/blob/main/logo.png" width="25%">
+</p>
+<p align="center">A mobile-first prototype helping students find flexible part-time jobs, internships, and remote work.</p>
 
 ---
 

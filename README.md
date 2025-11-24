@@ -123,11 +123,7 @@ DreamWork/
 ## 🔗 Project Links
 
 - 📘 **Jira Board:** [Link](https://da5-project.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiNDFkYmZjY2NiOWY2NDVjZWE1OTI4YmUyOGQ3OGI3OTgiLCJwIjoiaiJ9)
-- 📝 **Team OneNote:** [Link]( https://atlantictu-
-  my.sharepoint.com/personal/g00431569_atu_ie/\_layouts/Doc.aspx?sourcedoc={A35F4143-
-  A512-4FAB-8F85-A8E4594D4724}&wd=target%28DA5%20Team.one%7C05D76E08-7242-
-  469B-853A-41AC1892EB46%2F%29&wdsectionfileid={8DDE5734-BE47-48DC-9846-
-  7EF67B200022})
+- 📝 **Team OneNote:** [Link](https://atlantictu-my.sharepoint.com/personal/g00431569_atu_ie/_layouts/Doc.aspx?sourcedoc={A35F4143-A512-4FAB-8F85-A8E4594D4724}&wd=target%28DA5%20Team.one%7C05D76E08-7242-469B-853A-41AC1892EB46%2F%29&wdsectionfileid={8DDE5734-BE47-48DC-9846-7EF67B200022})
 - 🎨 **Figma Prototype:** [Link](https://www.figma.com/design/k3RgJO7wgM7kI9EwrWLv1p/DreamWork-Prototype?node-id=0-1&t=4gRdPWRbTY79Sgsb-1)
 - 🗂️ **MS Project File:** Included in `/docs`
 - 📄 **Report PDF:** Included in `/docs`
